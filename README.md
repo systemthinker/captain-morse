@@ -3,7 +3,7 @@ The original version of this app can be found at https://github.com/tdijkmans/mo
 Captain Morse is a little word-guessing game using Morse Code. The app outlines the imaginative situation where Captain Morse is on his boat and sinking due to a storm. Signaling 'SOS' in Morse Code does not work ( ... ___ ...) - so the urgent riddle is: which message does work to the lives of Captain Morse and his crew.
 
 Live working version
-[Click here] (https://captain-morse.netlify.app/)
+[Click here]: https://captain-morse.netlify.app/
 
 Goals of this project
 As part of Codaisseur's web development bootcamp an assignment was given: build an app, in team of fellow students, in one week, given the theme 'Language and letters'.
