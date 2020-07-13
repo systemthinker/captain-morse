@@ -5,10 +5,10 @@ Captain Morse is a little word-guessing game using Morse Code. The app outlines 
 Live working version
 [Click here](https://captain-morse.netlify.app)
 
-Goals of this project
+#### Goals of this project
 As part of Codaisseur's web development bootcamp an assignment was given: build an app, in team of fellow students, in one week, given the theme 'Language and letters'.
 
-Tech used in the project
+### Tech used in the project
 ReactJS for UI building (frontend only, no backend)
 the built-in web brower speech recognition engine for converting speech to transcript
 JS functions to convert transcripts to morse code
@@ -19,34 +19,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### App Demo
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![CaptainMorse](https://github.com/tdijkmans/morse-code-masters/blob/development/readme-assets/Captain-morse.gif)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
